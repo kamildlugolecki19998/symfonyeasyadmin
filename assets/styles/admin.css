@@ -1,0 +1,9 @@
+:root {
+    --sitebar-bg: '#deff';
+}
+
+.markdown-preview {
+    margin-top: 10px;
+    border: 2px dashed #da3735;
+    padding: 5px;
+}
